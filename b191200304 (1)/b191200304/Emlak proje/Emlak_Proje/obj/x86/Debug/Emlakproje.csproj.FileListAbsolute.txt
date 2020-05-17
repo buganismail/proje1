@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\bin\Debug\Gorsel1_Emlak_Proje.pdb
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Emlakproje.csprojAssemblyReference.cache
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.AnaSayfa.resources
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlak.resources
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakOzellik.resources
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.EmlakTanimlamalar.resources
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Emlakİslemleri.resources
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.KullaniciGirisi.resources
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Musteri.resources
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Personel.resources
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.Properties.Resources.resources
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Emlakproje.csproj.GenerateResource.cache
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Emlakproje.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.exe
+C:\Users\user\Desktop\b191200304 (1)\b191200304\Emlak proje\Emlak_Proje\obj\x86\Debug\Gorsel1_Emlak_Proje.pdb
